@@ -1,0 +1,31 @@
+[{
+        "model": "swapi.DHT11",
+        "pk": 1,
+        "fields": {
+            "id": 1,
+            "timestamp": "2020-09-23T13:16:45.141Z",
+            "temperature": "32.0",
+            "humidity": "76.0"
+        }
+    },
+    {
+        "model": "swapi.DHT11",
+        "pk": 2,
+        "fields": {
+            "id": 2,
+            "timestamp": "2020-09-23T13:30:33.680Z",
+            "temperature": "31.0",
+            "humidity": "71.0"
+        }
+    },
+    {
+        "model": "swapi.DHT11",
+        "pk": 3,
+        "fields": {
+            "id": 3,
+            "timestamp": "2020-09-23T13:31:54.481Z",
+            "temperature": "31.0",
+            "humidity": "71.0"
+        }
+    }
+]
